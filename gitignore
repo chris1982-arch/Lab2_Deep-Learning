@@ -1,0 +1,28 @@
+# Data (auto-downloads)
+MNIST/
+data/
+*.idx*-ubyte*
+
+# Wandb local cache
+wandb/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Per-epoch checkpoints (keep only best in results/)
+checkpoints/*.pth
+!checkpoints/G_best.pth
+!checkpoints/D_best.pth
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
+
+# Large files — use git-lfs if needed
+*.pth filter=lfs diff=lfs merge=lfs -text
