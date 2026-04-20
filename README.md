@@ -6,7 +6,7 @@ diffusion models.
 
 **Team:** \[Christos Palantzidis], \[Rafal Popiolek], \[Dasari]
 
-**Wandb project:** [https://wandb.ai/YOUR\_TEAM/lab2-gan-diffusion](#)
+**Wandb project:** **Wandb project:** [https://wandb.ai/chrispalandz-lule-university-of-technology/vanilla-gan-mnist](https://wandb.ai/chrispalandz-lule-university-of-technology/vanilla-gan-mnist)(#)
 (public dashboard with all training runs)
 
 \---
